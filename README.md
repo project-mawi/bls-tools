@@ -10,7 +10,7 @@ BLS - SELFIE est une application mobile Android conçue pour capturer des selfie
 
 Pour télécharger l'application, cliquez sur le lien ci-dessous :
 
-[![Télécharger l'APK](https://img.shields.io/badge/Télécharger-APK-brightgreen)](https://github.com/project-mawi/bls-tools/blob/master/Selfie-20240709.apk)
+[![Télécharger l'APK](https://img.shields.io/badge/Télécharger-APK-brightgreen)](https://github.com/project-mawi/bls-tools/blob/master/Selfie-V6.apk)
 
 ## Fonctionnalités
 
